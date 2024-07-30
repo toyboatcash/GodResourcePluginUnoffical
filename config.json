@@ -4,12 +4,12 @@
     "author": "Stuart Houston",
     "authorUrl": "https://github.com/skytunnel",
     
-    "repositoryUrl": "https://github.com/skytunnel/GodResourcePluginUnoffical/dev",
-    "sourceUrl": "./config.js",
+    "sourceUrl": "https://raw.githubusercontent.com/skytunnel/GodResourcePluginUnoffical/main/config.json",
+    "repositoryUrl": "https://github.com/skytunnel/GodResourcePluginUnoffical",
     "scriptUrl": "./script.js",
     "version": 1,
     
-    "iconUrl": "https://www.godresource.com/Images/Logos/GRLogo.jpg",
+    "iconUrl": "./GRLogo.png",
     "id": "482834c5-bba1-409e-a08b-4fb61d9e4232",
     
     "scriptSignature": "<ommitted>",
