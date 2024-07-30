@@ -1,0 +1,23 @@
+{
+    "name": "God Resource (Unofficial)",
+    "description": "Sermons from nifb",
+    "author": "Stuart Houston",
+    "authorUrl": "https://github.com/skytunnel",
+    
+    "sourceUrl": "https://raw.githubusercontent.com/toyboatcash/GodResourcePluginUnoffical/main/config.json",
+    "repositoryUrl": "https://github.com/toyboatcash/GodResourcePluginUnoffical",
+    "scriptUrl": "./script2.js",
+    "version": 1,
+    
+    "iconUrl": "./GRLogo.png",
+    "id": "482834c5-bba1-409e-a08b-4fb61d9e4232",
+    
+    "scriptSignature": "<ommitted>",
+    "scriptPublicKey": "<ommitted>",
+    "packages": ["Http"],
+    
+    "allowEval": false,
+    "allowUrls": [
+        "everywhere"
+    ]
+}
